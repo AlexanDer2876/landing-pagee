@@ -1,0 +1,31 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+  
+  }
+  ul {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    gap: 50px;
+    font-size: 0.9rem;
+  
+}
+  .logo {
+    width: 100px;
+    margin: auto;
+  
+}
+.nav button {
+    width: 90px;
+    height: 30px;
+    font-size: 0.9rem;
+}
+  
+  
+  
+  
+  li {
+    display: flex;
+    list-style-type: none;
+  }

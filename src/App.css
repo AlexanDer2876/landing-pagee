@@ -1,11 +1,7 @@
 .App {
   text-align: center;
 }
-.nav {
-  display: flex;
-  justify-content: space-between;
 
-}
 ul {
   display: flex;
   text-align: center;
@@ -34,17 +30,7 @@ li {
   height: 30px;
   font-size: 0.9rem;
 }
-.parrafo {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 40px;
-  margin-bottom: 40px;
-  gap: 90px;
-  font-size: 0.9rem;
-  color: blue;
-  
-}
+
 .logo1 {
   display: flex;
   justify-content: center;
@@ -70,34 +56,11 @@ li {
 h6 {
   color: darkgrey;
 }
-.svg1 {
-  display: flex;
-  justify-content: center;
-  width: 20px;
-  height: 20px;
-}
-.svg2 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 20px;
-  height: 20px;
-}
+
 .container h1 {
   font-size: 42px;
 }
-.log1 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 20px;
-}
-.log2 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 20px;
-}
+
 .logo {
   width: 100px;
   margin: auto;

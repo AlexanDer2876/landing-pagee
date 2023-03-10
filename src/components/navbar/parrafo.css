@@ -1,0 +1,35 @@
+.parrafo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    gap: 90px;
+    font-size: 0.9rem;
+    color: blue;
+}
+.log1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.log2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.svg1 {
+    display: flex;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+}
+.svg2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 20px;
+}    
