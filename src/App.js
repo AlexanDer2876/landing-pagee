@@ -9,7 +9,7 @@ function App() {
       <Navbar></Navbar>        
         <div className="container">
           <h1>Everything you need to grow<br />your business</h1>
-          <h6>Protonn does everything you need to start and grow your business.Attract clients through<br />engaging video content and simplify your business operations</h6>
+          <h6>Protonn does everything you need. to start and grow your business.Attract clients through<br />engaging video content and simplify your business operations</h6>
           <button>Get Started With Protton Today</button>
         </div>
       <Parrafo></Parrafo>
